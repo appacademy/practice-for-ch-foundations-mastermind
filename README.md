@@ -1,6 +1,6 @@
 # Mastermind
 
-<iframe src="https://player.vimeo.com/video/291835027" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/76491823/217725030-1ee95ffa-2ed7-4cbe-bf75-48701e94695c.mp4  
 
 This project consists of three parts. Video walkthroughs for parts 1 and 3
 follow in the next section. After completing each part, watch the corresponding
